@@ -1,3 +1,7 @@
+## This was meant to be a simple template based off of Ethan's TODO App, but now that https://github.com/ethanniser/the-beth-stack has been upgraded with a new architecture and even cli we can consider it a better bet.
+
+<hr/>
+
 # THE BETH STACK
 
 _It may not be the BEST stack, but it is the BETH stack._
